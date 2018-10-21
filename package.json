@@ -1,0 +1,16 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "resume server package",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "author": "Soheil Salimian",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.16.0",
+    "swig": "^1.4.2"
+  }
+}
